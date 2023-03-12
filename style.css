@@ -17,7 +17,7 @@
 }
 
 .background1 {
-    background-color: rgb(0, 110, 169);
+    background-color: rgb(11, 163, 245);
 }
 .background2 {
     background-color: slategray;
@@ -27,7 +27,7 @@
     padding: 40px;
 }
 .background4{
-    background-color: #959595;
+    background-color: #dfdfdf;
 }
 .background5{
     background-color: white;
@@ -39,11 +39,11 @@
     margin-left: 15px;
 }
 .b{
-    background-color: rgb(0, 110, 169);
+    background-color: rgb(11, 163, 245);
     transition: 1s;
 }
 .b:hover {
-    background-color: #959595;
+    background-color: rgb(0, 110, 169);
         
 }
 .a{
@@ -52,7 +52,7 @@
     
 }
 .a:hover {
-    color: white;
+    color: rgb(11, 163, 245);
         
 }
 .blnk{
